@@ -275,7 +275,7 @@ body a {
 /* -------------------------------------------------------------------------------- */
 
 
-.header { padding: 70px 0; }
+.header { padding: 20px 0; }
 
 .header .cover { background: rgba(29,29,29,0.25); }
 
@@ -286,7 +286,7 @@ body a {
 .header .logo { display: inline-block; }
 
 .header .logo img {
-	max-height: 80px;
+	max-height: 210px;
 	width: auto;
 }
 
@@ -2732,7 +2732,7 @@ img#wpstats { display: none; } /* Silly WordPress stats */
 	
 	.section.header { padding: 50px 0; }
 	
-	.header .logo img { max-height: 60px; }
+	.header .logo img { max-height: 190px; }
 	
 	/* footer */
 	
@@ -2810,6 +2810,8 @@ img#wpstats { display: none; } /* Silly WordPress stats */
 	/* header */
 	
 	.section.header { padding: 35px 0; }
+
+	.header .logo img { max-height: 140px; }
 	
 	.header-search-block .s { font-size: 1.5em; margin-top: -17px; }
 	
